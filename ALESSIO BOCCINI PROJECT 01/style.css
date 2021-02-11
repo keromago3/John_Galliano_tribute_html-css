@@ -1,0 +1,58 @@
+header {
+    background-color: floralwhite;
+    border-bottom: 1px solid grey;
+    text-align:center;
+    padding-top: 20px;
+    height: 570px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.Galliano-picture {
+    display: inline;
+    font-size: 14px;
+}
+
+.Galliano-picture img {
+    width: 500px;
+}
+
+.main {
+    display: inline-block;
+    width: 55%;
+    margin-left: 300px;
+    padding-top: 40px;
+    vertical-align: top;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.main h2 {
+    text-align: center;
+}
+
+.Sidebar {
+    display: inline-block;
+    margin-left: 275px;
+    padding-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.Links {
+    display:inline-block;
+    margin-left: 275px;
+    padding-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.Quote {
+    display:inline-block;
+    margin-left:300px;
+    padding-top: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 14px;
+}
+
+
+
